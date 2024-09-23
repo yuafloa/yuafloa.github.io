@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://yuafloa.github.io/sitemap/sitemap.txt
